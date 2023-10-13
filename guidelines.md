@@ -1,4 +1,4 @@
-# GitHub Best Practices Template
+# Template for BESSER-PEARL Organization Repositories
 
 The following indications assume that you have admin or owner permissions in the project.
 
@@ -87,9 +87,7 @@ If you do not plan to use these templates, remove the folder.
 
 The license sets the legal framework for your project. 
 
-Choose the most appropriate license is a hard and time-consuming task. There are websites that can help you to pick one, such as [Choose a License](https://choosealicense.com/).
-
-In this template, we have started by the CC-BY-SA license as starter point, but we recommend you to explore the alternatives and change it to the most suitable license for your work.
+Check that the proposed license matches with your project. This template includes the MIT license (the standard license for public repositories of the BESSER-PEARL organization), but you can change it to any other license. You can find a list of licenses in [Choose a License](https://choosealicense.com/).
 
 ### 👮‍♀️ Security policy
 
@@ -126,5 +124,3 @@ As last step, modify the `README.md` file. This file summarizes your project, an
 * Contributing & Governance: You can refer to `CONTRIBUTING.md` and `GOVERNANCE.md`.
 * Code of Conduct: You can refer to `CODE_OF_CONDUCT.md`.
 * License: You can refer to `LICENSE.md`
-
-
