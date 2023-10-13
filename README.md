@@ -21,4 +21,4 @@ For more information on how to connect your repository, customize, and deploy th
 
 ## 📚 References
 
-This project is an extended and adapted version (to the BESSER-PEARL organization) of the [GitHub Best Practices Template](https://github.com/jlcanovas/gh-best-practices-template.git)
+This project is an extended and adapted version (to the [BESSER-PEARL organization](https://github.com/organizations/BESSER-PEARL/)) of the [GitHub Best Practices Template](https://github.com/jlcanovas/gh-best-practices-template.git)
